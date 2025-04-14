@@ -1,4 +1,8 @@
-# Zoo CMS
+# Even More Web API Projects
+
+Even More Web API Projects with even more dot net concepts included. 
+
+# [Zoo CMS](Zoo)
 
 One more .NET Project that showcases various Web API related concepts.
 
@@ -11,6 +15,47 @@ One more .NET Project that showcases various Web API related concepts.
     1. Testing interfaces and implementations
 1. Interfaces and Implementations
 1. Models (Domain)
+
+# [WebAPIApril2025](WebAPIApril2025)
+
+Another API project demonstrating several .NET Web API related concepts.
+
+Programming Principles Followed
+
+1. Separation of Concern (Clean Code Principles)
+1. Reusability
+1. Testability
+1. Consistency
+1. Readibility
+1. Decoupling
+1. Scalability
+1. Decoupling
+1. Single Responsibility (Clean Code Principles)
+1. Test Driven Development
+
+Concepts Covered
+
+1. Building Web API with .NET
+1. Swagger
+1. Unit Testing with NUnit and Moq
+1. Helper Class with the purpose of seperation of concern,
+1. EF Core with SQL Server
+1. EF Core with In Memory Database (for Unit Testing)
+1. MOQ Usage (for Unit Testing)
+1. Models - Domain and Models - DTO
+1. Dependency Injection of Services
+1. Dependency Injection of Helper Classes
+1. Primary Key and Foreign Key usage with EF Core
+1. Controller and API EndPoints with CRUD with Complex Primary Key and Foreign Key Relationships
+1. Controller and API EndPoints that generate randomly generated objects and inserting them into database
+1. Seeding and Disposing of Database during Unit Testing resulting in Isolated Testing
+1. Usage of virtual DBSets for EF Core table creation to enable easier Unit Testing
+1. Centralized Error Handling with Middleware
+1. DTO Validation with Fluent Validation
+1. Cache with InMemory Database
+1. Unit Testing of Controllers
+1. Logging to Console via ILogger
+1. Logging to SQLite DB with EF Core via SeriLog
 
 # book a session with me
 
