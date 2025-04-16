@@ -57,6 +57,11 @@ Concepts Covered
 1. Logging to Console via ILogger
 1. Logging to SQLite DB with EF Core via SeriLog
 
+# [OneToMany](OneToMany)
+
+1. Showcases One to Many Relationship using EF Core
+1. Controller Endpoints that show addding items with one to many relationship
+
 # book a session with me
 
 1. [calendly](https://calendly.com/jaycodingtutor/30min)
