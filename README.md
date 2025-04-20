@@ -62,6 +62,16 @@ Concepts Covered
 1. Showcases One to Many Relationship using EF Core
 1. Controller Endpoints that show addding items with one to many relationship
 
+# [EmailDemo](EmailDemo)
+
+1. Showcase Email Sending using Google Account via App Password
+1. Both Front End and Back End are present
+
+# [NotificationDemo](NotificationDemo)
+
+1. Showcase sending Notifications using SignalR
+1. Both Front End and Back End are present
+
 # book a session with me
 
 1. [calendly](https://calendly.com/jaycodingtutor/30min)
