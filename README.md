@@ -62,6 +62,14 @@ Concepts Covered
 1. Showcases One to Many Relationship using EF Core
 1. Controller Endpoints that show addding items with one to many relationship
 
+# [OneToMany The Sequel](OneToManyTheSequel)
+
+1. Showcases One to Many Relationship using EF Core
+1. Showcases One to Many Relationship with Multiple Relationships within, using EF Core
+1. Controller Endpoints that show addding items with one to many relationship
+1. Avoid Circular References using JSON ReferenceHandler Preserve
+1. Avoid Circular References using DTOs
+
 # [EmailDemo](EmailDemo)
 
 1. Showcase Email Sending using Google Account via App Password

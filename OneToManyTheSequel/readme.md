@@ -1,7 +1,10 @@
-# OneToMany
+# OneToMany The Sequel
 
 1. Showcases One to Many Relationship using EF Core
+1. Showcases One to Many Relationship with Multiple Relationships within, using EF Core
 1. Controller Endpoints that show addding items with one to many relationship
+1. Avoid Circular References using JSON ReferenceHandler Preserve
+1. Avoid Circular References using DTOs
 
 # book a session with me
 
