@@ -3,7 +3,7 @@
 1. Showcase Email Sending using Google Account via App Password
 1. Both Front End and Back End are present
 1. Project [Frontend](Frontend) is Angular 19 version. 
-1. Angular 16 coming soon. 
+1. Project [FrontEndAngular16](FrontEndAngular16) is Angular 16 version. 
 
 # Special Thanks
 
