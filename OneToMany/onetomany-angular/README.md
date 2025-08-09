@@ -1,6 +1,4 @@
-# OneToMany
-
-Full Stack project that
+# OneToMany - Angular Front End
 
 1. Showcases One to Many Relationship using EF Core
 1. Controller Endpoints that show addding items with one to many relationship

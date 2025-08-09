@@ -11,8 +11,8 @@ using OneToMany.Data;
 namespace OneToMany.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250416044535_OnetoManyClasses")]
-    partial class OnetoManyClasses
+    [Migration("20250809104915_MigrationOne")]
+    partial class MigrationOne
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
